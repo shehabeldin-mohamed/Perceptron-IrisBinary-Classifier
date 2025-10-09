@@ -8,7 +8,7 @@ The project uses a **binary subset** of the classic **Iris dataset**, excluding 
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 The perceptron is a **linear classifier** that learns to separate two classes using a weight vector and bias.  
 During training, it updates weights based on misclassified examples using the **Perceptron Learning Rule**.
@@ -20,7 +20,7 @@ You can easily modify parameters such as:
 
 ---
 
-## 🚀 How to Run
+## Installation Instructions
 
 1. **Clone the repository**
    ```bash
